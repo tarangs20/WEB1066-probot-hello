@@ -38,4 +38,4 @@ docker run  -it --rm \
 `docker run -it --rm probot-hello npm run lint`
 
 # Show Coverage Report
-`docker run -it --rm probot-hello npm run coverage`
+`docker run -it --rm probot-hello npm run coverage` 
